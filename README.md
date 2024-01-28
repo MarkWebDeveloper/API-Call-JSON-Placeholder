@@ -1,6 +1,10 @@
-# API-Call-JSON-Placeholder
+# API Call JSON Placeholder Project
 
-This template should help get you started developing with Vue 3 in Vite.
+Hi! This is my variant of API Call exercise. In this exercise we had 3 objectives.
+
+1. Utilizing fet API or asunc/await pring on the browser console the received data.
+2. Create a table and pring all the user with their IDs, names and cities of residence.
+3. Create an input with its' button in order for the user to be able to search for a user by ID. The result had to show the name and phone number.
 
 ## Recommended IDE Setup
 
